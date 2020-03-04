@@ -1,0 +1,11 @@
+C:\Exercices\exos\obj\Debug\netcoreapp3.1\exos.csprojAssemblyReference.cache
+C:\Exercices\exos\obj\Debug\netcoreapp3.1\exos.AssemblyInfoInputs.cache
+C:\Exercices\exos\obj\Debug\netcoreapp3.1\exos.AssemblyInfo.cs
+C:\Exercices\exos\bin\Debug\netcoreapp3.1\exos.exe
+C:\Exercices\exos\bin\Debug\netcoreapp3.1\exos.deps.json
+C:\Exercices\exos\bin\Debug\netcoreapp3.1\exos.runtimeconfig.json
+C:\Exercices\exos\bin\Debug\netcoreapp3.1\exos.runtimeconfig.dev.json
+C:\Exercices\exos\bin\Debug\netcoreapp3.1\exos.dll
+C:\Exercices\exos\bin\Debug\netcoreapp3.1\exos.pdb
+C:\Exercices\exos\obj\Debug\netcoreapp3.1\exos.dll
+C:\Exercices\exos\obj\Debug\netcoreapp3.1\exos.pdb
